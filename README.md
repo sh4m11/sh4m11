@@ -4,11 +4,11 @@ Chief Architect of Mechanical Disassembly and Systematic Disillusionment. Former
 
 # **Currently Learning**
 
-* Biomechanical hypertrophy optimization & progressive overload mechanics (3+ year iron streak)
-* Rewatching all 1,100+ episodes of One Piece for the third time
-* Voluntary gastrointestinal damage through extreme capsaicin exposure
+* Biomechanical hypertrophy & progressive overload (3+ year iron streak)
 * Blundering queen side pieces in casual chess matches
-* Manual API destruction via Postman to finance a fully remote lifestyle
-* Pretending to care about daily standups and Agile ceremonies
+* giving up
+* Rewatching 1,100+ episodes of One Piece for the 3rd time out of sheer spite
+* analytical analysis
+* Rats (those lil cheese eating gray guys)
 
 Vibe coding is obsolete, real ones aura code.
